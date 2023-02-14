@@ -1,6 +1,40 @@
 LineageOS
 ===========
 
+![image](https://i.imgur.com/s2oyX1g.png)
+
+What is LineageOS?
+---------------
+
+A free and open-source operating system for various devices, based on the Android mobile platform.
+
+Click [here](https://lineageos.org/) to learn more.
+
+## Features
+
+### Individuality
+
+Customization is paramount to productivity.
+That’s why LineageOS promises to push for user personalization and preference.
+
+Everyone is unique and your device should be too.
+
+### Security
+
+Your data, your rules. Along with monthly security updates to every supported device, we enhance existing privacy touchpoints around the OS and keep you informed of how the system shares your data.
+
+### Longevity
+
+LineageOS extends the functionality and lifespan of mobile devices from more than 20 different manufacturers thanks to our open-source community of contributors from all around the world.
+
+### Table of Contents
+1. [Getting Started](https://github.com/matthibbs7/android/edit/lineage-20.0/README.mkdn#getting-started)
+
+2. [Submitting Patches](https://github.com/matthibbs7/android/edit/lineage-20.0/README.mkdn#getting-started)
+
+3. [Buildbot](https://github.com/matthibbs7/android/edit/lineage-20.0/README.mkdn#getting-started)
+
+
 Getting started
 ---------------
 
